@@ -1,5 +1,5 @@
 {
-    "appid": "wxd69a2d1480b5e89c",
+    "appid": "wxe43e4b47a652a61a",
     "compileType": "miniprogram",
     "libVersion": "3.3.5",
     "packOptions": {
@@ -24,5 +24,6 @@
     "editorSetting": {
         "tabIndent": "insertSpaces",
         "tabSize": 4
-    }
+    },
+    "isGameTourist": false
 }
