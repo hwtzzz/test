@@ -2,6 +2,6 @@
 <navigation-bar title="Weixin" back="{{false}}" color="black" background="#FFF"></navigation-bar>
 <scroll-view class="scrollarea" scroll-y type="list">
   <view class="container">
-    Weixin hwt 0606
+    hwt 0606  测试修改13212
   </view>
 </scroll-view>
